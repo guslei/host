@@ -6,7 +6,7 @@
         "image": "https://image.resy.com/3/003/2/6194/48a50e85119bcf2c64fe91d3e8ab918a2ca98988/jpg/640x360",
         "name": "Carbone",
         "cuisine": "Italian",
-        "neighborhood": "Greenwich Village",
+        "city_name": "Greenwich Village",
         "price_range": 4,
         "currency": "$",
         "bookNowLink": "/cities/ny/carbone"
@@ -16,7 +16,7 @@
         "image": "https://image.resy.com/3/003/2/1387/d107340ea502b2ee60289be4326771e7dfe70b8e/jpg/640x360",
         "name": "Le Bernardin",
         "cuisine": "French",
-        "neighborhood": "Theater District",
+        "city_name": "Theater District",
         "price_range": 4,
         "currency": "$",
         "bookNowLink": "/cities/ny/le-bernardin"
@@ -26,7 +26,7 @@
         "image": "https://image.resy.com/3/003/2/9938/d87494253e924f3c6c7b7a46d2b4e1fcbb777e3b/jpg/640x360",
         "name": "The Grey",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -36,7 +36,7 @@
         "image": "https://image.resy.com/3/003/2/31999/6407fd1809014f7c76ffee4d25e9d29c5b5a5c5f/jpg/640x360",
         "name": "Osteria Mozza",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -46,7 +46,7 @@
         "image": "https://image.resy.com/3/003/2/2245/1e6a949aa0a06bf20d697a79cbb71ece2e1f97a1/jpg/640x360",
         "name": "Brasserie Saison",
         "cuisine": "French",
-        "neighborhood": "The Downtown Mall",
+        "city_name": "The Downtown Mall",
         "price_range": 2,
         "currency": "$",
         "bookNowLink": "/cities/cho/brasserie-saison"
@@ -56,7 +56,7 @@
         "image": "https://image.resy.com/3/003/2/418/354912dad100159dc78d1653b69f7caac10434e8/jpg/640x360",
         "name": "Lilia",
         "cuisine": "Italian",
-        "neighborhood": "Williamsburg",
+        "city_name": "Williamsburg",
         "price_range": 3,
         "currency": "$",
         "bookNowLink": "/cities/ny/lilia"
@@ -66,7 +66,7 @@
         "image": "https://image.resy.com/3/003/2/2146/a0a175d65f69a474e10abb2e788a2948811f77b2/jpg/640x360",
         "name": "Osteria Francescana",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -76,7 +76,7 @@
         "image": "https://image.resy.com/3/003/2/10456/4c243155bc102d34974493c8839a04d1ab21dd69/jpg/640x360",
         "name": "El Cellar",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -90,7 +90,7 @@
         "image": "https://image.resy.com/3/003/2/13979/e96483d50eabae81f21c17b7b26dc2d846a7e0b9/jpg/640x360",
         "name": "Gymkhana",
         "cuisine": "Indian",
-        "neighborhood": "Myfair",
+        "city_name": "Myfair",
         "price_range": 3,
         "currency": "£",
         "bookNowLink": "/cities/ldn/gymkhana"
@@ -100,7 +100,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "Park Chinois",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -110,7 +110,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "Klosterhaus",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -120,7 +120,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "Lucky Cat by GR",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -130,7 +130,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "Hakkasan Mayfair",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -140,7 +140,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "Chiltern Firehouse",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -150,7 +150,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "J Sheekey",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
@@ -160,7 +160,7 @@
         "image": "https://image.resy.com/3/003/2/8493/39002f10728c7de29303ff7c810c5a3c5f8a1be8/jpg/640x360",
         "name": "Marcus",
         "cuisine": "???cuisine???",
-        "neighborhood": "?neighborhood?",
+        "city_name": "?city_name?",
         "price_range": 3,
         "currency": "?",
         "bookNowLink": "/cities/ny/anv-beer-test-venue?date=2021-01-21&seats=2"
