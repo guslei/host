@@ -15,7 +15,7 @@ var v = 0;
 const docResizeObserver = new ResizeObserver(() => {
     docResizePipe();
 });
-docResizeObserver.observe(document.querySelector("body"));
+docResizeObserver.observe(document.querySelector('body'));
 function docResizePipe() {
     v += 1;
     if (v > 5) {
