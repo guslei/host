@@ -9,7 +9,12 @@
       margin: 0;
     }
   </style>
-  
+</head>
+<body onload="docResizePipe()">
+
+<h1>Page test to be iframed</h1>
+<p>A paragraph here.</p>
+
   <script>
 var v = 0;
 const docResizeObserver = new ResizeObserver(() => {
@@ -32,12 +37,5 @@ setInterval(function() {
     }
 }, 300);
 </script>
-  
-</head>
-<body onload="docResizePipe()">
-
-<h1>Page test to be iframed</h1>
-<p>A paragraph here.</p>
-
 </body>
 </html>
