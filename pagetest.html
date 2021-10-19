@@ -9,8 +9,32 @@
       margin: 0;
     }
   </style>
+  
+  <script>
+var v = 0;
+const docResizeObserver = new ResizeObserver(() => {
+    docResizePipe();
+});
+docResizeObserver.observe(document.querySelector("body"));
+function docResizePipe() {
+    v += 1;
+    if (v > 5) {
+        return;
+    }
+    var w = document.body.scrollWidth;
+    var h = document.body.scrollHeight;
+    window.parent.postMessage([w,h], "*");
+}
+setInterval(function() {
+    v -= 1;
+    if (v < 0) {
+        v = 0;
+    }
+}, 300);
+</script>
+  
 </head>
-<body>
+<body onload="docResizePipe()">
 
 <h1>Page test to be iframed</h1>
 <p>A paragraph here.</p>
